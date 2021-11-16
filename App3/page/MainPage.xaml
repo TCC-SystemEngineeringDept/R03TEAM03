@@ -8,5 +8,5 @@
 
     <local:MainPage2 Title="MainPage2" />
     
-  <ContentPage Title="Tab 3" />
+  <ContentPage Title=　"Tab 3" />
 </TabbedPage>
