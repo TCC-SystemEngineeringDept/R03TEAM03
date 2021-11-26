@@ -14,6 +14,6 @@
     
     <local:MainPage5 Title="MainPage5" />
     
-    <local:MainPage6 Title="MainPage6" />
+    <local:MainPage6 Title="Main Page6" />
   <ContentPage Title=　"Tab 3" />
 </TabbedPage>
