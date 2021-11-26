@@ -8,5 +8,12 @@
 
     <local:MainPage2 Title="MainPage2" />
     
+    <local:MainPage3 Title="MainPage3" />
+    
+    <local:MainPage4 Title="MainPage4" />
+    
+    <local:MainPage5 Title="MainPage5" />
+    
+    <local:MainPage6 Title="MainPage6" />
   <ContentPage Title=　"Tab 3" />
 </TabbedPage>
